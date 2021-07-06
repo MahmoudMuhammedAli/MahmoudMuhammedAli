@@ -4,7 +4,7 @@
 
 #### 👨🏻‍💻  About Me
 
-- 🔭 I’m currently working on [UI-to-CODE](https://github.com/MahmoudMuhammedAli/UI-to-CODE)
+- 🔭 I’m currently working on [AltsTogether](https://github.com/MahmoudMuhammedAli/AltsTogether)
 
 - 🌱 I’m currently learning **Full-stack Web Development || Computer Science**
 
