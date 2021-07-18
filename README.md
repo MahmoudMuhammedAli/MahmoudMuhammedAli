@@ -18,7 +18,6 @@
 
 - 📄 Know about my experiences through my [Resume](https://drive.google.com/file/d/1noBUvm8jCz1KvOPj29TanaaRuhOgqifc/view?usp=sharing)
 
-[![Mahmoud's github activity graph](https://activity-graph.herokuapp.com/graph?username=MahmoudMuhammedAli&theme=xcode)](https://git.io/MahmoudMuhammedAli)
 
 
 <p align="center">
