@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏽, I'm Mahmoud<img src="https://emojis.slackmojis.com/emojis/images/1495224255/2288/christmas_parrot.gif?1495224255" width="30"/></h1>
+<h1 align="center">Hi 👋🏽, I'm Mahmoud</h1>
 <h3 align="center">Software Developer || Senior computer Science Student</h3>
 
 
