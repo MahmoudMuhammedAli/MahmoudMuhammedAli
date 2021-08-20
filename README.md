@@ -4,7 +4,7 @@
 
 #### 👨🏻‍💻  About Me
 
-- 🔭 I’m currently working on [DEVE HOME](https://github.com/MahmoudMuhammedAli/deve-home)
+- 🔭 I’m currently working on [DeveHome](https://github.com/MahmoudMuhammedAli/dev-home)
 
 - 🌱 I’m currently learning **Full-stack Web Development || Computer Science**
 
