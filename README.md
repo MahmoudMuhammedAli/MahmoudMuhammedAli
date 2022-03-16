@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Full-stack Web Development || Computer Science**
 
-- 💻 I mainly code in **JavaScript**
+- 💻 I mainly code in **Javascript**
 
 - 💬 Ask me about **React, Redux || HTML || CSS || Backend Web Dev**
  
