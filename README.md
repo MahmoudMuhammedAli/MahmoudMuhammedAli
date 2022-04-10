@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ibn.el4ai5@gmail.com**
 
-- 📄 Know about my experiences through my [Resume](https://drive.google.com/file/d/1noBUvm8jCz1KvOPj29TanaaRuhOgqifc/view?usp=sharing)
+- 📄 Know about my experiences through my [Resume](https://docs.google.com/document/d/1qsCAFtu0crtu3Eiy0u6oBpREATGCoW3Se13OUDKXDps/edit?usp=sharing)
 
 
 
